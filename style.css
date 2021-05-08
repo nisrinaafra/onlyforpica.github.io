@@ -31,11 +31,10 @@ body {
 	text-indent: 1cm;
 	font-size: 20px;
 }
- ul {
+h6 {
 	margin-left: 1cm;
 	margin-right: 1cm;
 	font-family: Courier New;
 	color: maroon;
-	text-indent: 0.5cm;
-	font-size: 20px;
+	text-align: center;
 }
